@@ -1,5 +1,3 @@
-// --- components/Header.tsx ---
-
 export default function Header() {
   return (
     <div className="text-white text-center">
