@@ -1,28 +1,15 @@
 {
   "name": "tirecheck",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "vercel-build": "next build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kimjuwnoo/tirecheck.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kimjuwnoo/tirecheck/issues"
-  },
-  "homepage": "https://github.com/kimjuwnoo/tirecheck#readme",
-  "description": "",
- "dependencies": {
-  "next": "13.4.19",
-  "react": "18.2.0",
-  "react-dom": "18.2.0"
+  "dependencies": {
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
 }
-
