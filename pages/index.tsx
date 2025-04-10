@@ -1,5 +1,3 @@
-// --- pages/index.tsx ---
-
 import Header from "@/components/Header";
 import SearchForm from "@/components/SearchForm";
 import BottomNav from "@/components/BottomNav";
