@@ -1,5 +1,3 @@
-// --- components/BottomNav.tsx ---
-
 import { Home, CalendarCheck, User } from "lucide-react";
 
 export default function BottomNav() {
