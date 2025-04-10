@@ -1,0 +1,23 @@
+# .gitignore
+
+# Node modules (📦 의존성 패키지들)
+node_modules/
+
+# Next.js 빌드 결과물
+.next/
+
+# 환경변수 파일
+.env
+.env.local
+
+# macOS 관련 숨김파일
+.DS_Store
+
+# 로그파일
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 기타
+out/
+dist/
