@@ -4,7 +4,6 @@ export default function BottomNav() {
   return (
     <div className="fixed bottom-0 left-0 right-0 bg-white border-t shadow-md flex justify-around py-2">
       <div className="flex flex-col items-center text-blue-500">
-        {/* @ts-ignore */}
         // @ts-ignore
         <Home size={20} />
         <span className="text-xs">홈</span>
